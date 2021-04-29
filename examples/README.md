@@ -18,7 +18,7 @@ Steganograms
 * shakespeare.png   (contains pg100.epub)
 * x.png             (contains the link to this repository)
 
-Reveal with ([cmd/stegano](https://github.com/zanicar/stegano/cmd/stegano)):
+Reveal with ([cmd/stegano](../cmd/stegano)):
 
     stegano -reveal -in shakespeare.png -out shakespeare.epub -z
     stegano -reveal -in x.png -out repo.txt -z

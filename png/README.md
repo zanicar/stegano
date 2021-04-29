@@ -3,7 +3,7 @@
 An image steganography implementation that outputs PNG steganograms. It accepts both JPEG and PNG images as input.
 
 It satisfies the interface defined by [github.com/zanicar/stegano](https://github.com/zanicar/stegano)
-A command line implementation is available [here](https://github.com/zanicar/stegano/cmd/stegano)
+A command line implementation is available [here](../cmd/stegano)
 
 ## Package Documentation
 
@@ -114,4 +114,4 @@ This tiny version of my profile image contains the link to this repository.
 
 ![steganogram](../examples/x.png)
 
-More examples [here](https://github.com/zanicar/stegano/examples)
+More examples [here](../examples)

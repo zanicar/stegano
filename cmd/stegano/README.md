@@ -4,7 +4,7 @@ A simple steganography command line tool written in Golang that supports ZIP com
 
 This implementation is limited to data concealment in images, accepting both JPEG and PNG formats, with the output steganogram as PNG.
 
-See [github.com/zanicar/stegano/png](https://github.com/zanicar/stegano/png) for further information.
+See [stegano/png](../../stegano/png) for further information.
 
 ## Features
 
