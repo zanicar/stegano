@@ -21,7 +21,8 @@ Consider the following simple examples:
     
 [Steganography](https://en.wikipedia.org/wiki/Steganography):
 
-    Buddy, I got that episodic cluster headache. It sucks! Tell Randy about Chuck's key. I'm not going. You're obvioulsy unsure...
+    Buddy, I got that episodic cluster headache. It sucks!
+    Tell Randy about Chuck's key. I'm not going. You're obvioulsy unsure...
     
 In the first case we use a simple Caesar Cipher (right shift by 7), but it is patently clear we are sending a message with content we want to keep secret from any oberservers. In the second case we use a simple Acrostic to hide our actual intended message and most observers would not give the message a second glace.
 
